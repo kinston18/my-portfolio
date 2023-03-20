@@ -21,3 +21,5 @@ This is my 3D-portfolio, which I've built using the following technologies:
  
  Ensuring responsiveness across all devices and improvisation of site's perrformance using Suspense and Preload
  
+ Finally also implemented email sending through a form on the website.
+ 
