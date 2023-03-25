@@ -22,6 +22,7 @@ const [active, setActive] = useState('')
           }}
           >
             <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
+            <p className='text-white text-[18px] font-bold cursor-pointer'>Prajjwal <span className='sm:block hidden'>| Front-End Developer </span></p>
           </Link>
 
       </div>
